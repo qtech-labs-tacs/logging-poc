@@ -1,0 +1,8 @@
+2023-10-25 20:57:30,952 WARN com.qtechlabstacs.controller.LoggingController [http-nio-8080-exec-6] WARN Level Log Enabled
+2023-10-25 20:57:30,976 ERROR com.qtechlabstacs.controller.LoggingController [http-nio-8080-exec-6] ERROR Level Log Enabled
+2023-10-25 20:57:31,882 INFO com.qtechlabstacs.controller.LoggingController [http-nio-8080-exec-7] INFO Level Log Enabled
+2023-10-25 20:57:31,884 WARN com.qtechlabstacs.controller.LoggingController [http-nio-8080-exec-7] WARN Level Log Enabled
+2023-10-25 20:57:31,885 ERROR com.qtechlabstacs.controller.LoggingController [http-nio-8080-exec-7] ERROR Level Log Enabled
+2023-10-25 20:57:32,536 INFO com.qtechlabstacs.controller.LoggingController [http-nio-8080-exec-8] INFO Level Log Enabled
+2023-10-25 20:57:32,538 WARN com.qtechlabstacs.controller.LoggingController [http-nio-8080-exec-8] WARN Level Log Enabled
+2023-10-25 20:57:32,538 ERROR com.qtechlabstacs.controller.LoggingController [http-nio-8080-exec-8] ERROR Level Log Enabled
